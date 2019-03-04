@@ -1,0 +1,23 @@
+{
+  "name": "coin-daemon-rpc",
+  "version": "1.0.0",
+  "description": "simple lib to use to send json-rpc messages to coin daemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnovacik/coin-daemon-rpc.git"
+  },
+  "author": "dnovacik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnovacik/coin-daemon-rpc/issues"
+  },
+  "homepage": "https://github.com/dnovacik/coin-daemon-rpc#readme",
+  "dependencies": {
+    "jayson": "^2.1.2",
+    "lodash": "^4.17.11"
+  }
+}
